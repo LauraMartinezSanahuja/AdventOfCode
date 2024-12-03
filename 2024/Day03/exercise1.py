@@ -5,7 +5,6 @@ data_file = "example.txt"
 data_file = "data.txt"
 
 result: int = 0
-#regex="mul\((?P<value1>\d+),(?P<value2>\d+)\)"
 regex = "mul\((\d+),(\d+)\)"
 
 with open(data_path + "/" + data_file, "r") as file:
