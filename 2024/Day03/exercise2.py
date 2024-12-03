@@ -1,7 +1,7 @@
 import re
 
 data_path = "2024/Day03/"
-data_file = "example.txt"
+data_file = "example2.txt"
 data_file = "data.txt"
 
 result: int = 0
