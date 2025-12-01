@@ -1,4 +1,5 @@
 data_file = "example.txt"
+# data_file = "data.txt"
 
 result: int = 0
 
